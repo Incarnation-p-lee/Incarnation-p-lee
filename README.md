@@ -1,1 +1,1 @@
-![](https://github.com/Incarnation-p-lee/Incarnation-p-lee/blob/master/cover.gif)
+[![activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Incarnation-p-lee&theme=merko&custom_title=Pan%20Li%20&hide_border=true&point=FFFFFF&days=50)](https://github.com/Incarnation-p-lee)
