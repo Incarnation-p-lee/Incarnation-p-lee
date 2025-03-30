@@ -11,3 +11,5 @@
 ![streak](https://streak-stats.demolab.com/?user=Incarnation-p-lee&hide_border=true&background=00000000&border=2980b9&stroke=2980b9&ring=27ae60&fire=27ae60&currStreakNum=2980b9&sideNums=2980b9&currStreakLabel=2980b9&sideLabels=2980b9&dates=2980b9)
 
 ![Visitor Count](https://profile-counter.glitch.me/Incarnation-p-lee/count.svg)
+
+<div align="center"><img src="https://raw.githubusercontent.com/Incarnation-p-lee/Incarnation-p-lee/main/assets/github-contribution-grid-snake.svg" ></div>
