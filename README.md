@@ -10,7 +10,4 @@
 
 ![streak](https://streak-stats.demolab.com/?user=Incarnation-p-lee&hide_border=true&background=00000000&border=2980b9&stroke=2980b9&ring=27ae60&fire=27ae60&currStreakNum=2980b9&sideNums=2980b9&currStreakLabel=2980b9&sideLabels=2980b9&dates=2980b9)
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="github-snake-dark.svg" />
-  <img alt="github-snake" src="github-snake.svg" />
-</picture>
+![Visitor Count](https://profile-counter.glitch.me/Incarnation-p-lee/count.svg)
