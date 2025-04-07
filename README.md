@@ -12,4 +12,4 @@
 
 ![Visitor Count](https://profile-counter.glitch.me/Incarnation-p-lee/count.svg)
 
-<div align="center"><img src="https://raw.githubusercontent.com/Incarnation-p-lee/Incarnation-p-lee/main/assets/github-contribution-grid-snake.svg" ></div>
+<div align="center"><img src="https://raw.githubusercontent.com/Incarnation-p-lee/Incarnation-p-lee/master/assets/github-contribution-grid-snake.svg" ></div>
