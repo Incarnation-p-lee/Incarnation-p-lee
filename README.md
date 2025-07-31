@@ -1,4 +1,4 @@
-[![activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Incarnation-p-lee&theme=react-dark&custom_title=Pan%20Li%20&hide_border=true&point=FFFFFF&days=60)](https://github.com/Incarnation-p-lee)
+[![activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Incarnation-p-lee&theme=react-dark&custom_title=Pan%20Li%20&hide_border=true&point=FFFFFF&days=45)](https://github.com/Incarnation-p-lee)
 
 ![stats](https://github-trophies.vercel.app/?username=Incarnation-p-lee&rank=SECRET,SSS,SS,S,AAA,AA&row=2&column=9&theme=gruvbox)
 
